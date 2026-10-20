@@ -1,5 +1,5 @@
 # .github
 
-Config files for organisation profile.
+Organisation configuration files and whatever is coming next
 
-hi
+rah raH shIsh ma bang
